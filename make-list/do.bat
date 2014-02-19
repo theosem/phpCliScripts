@@ -1,0 +1,2 @@
+php makeList.php
+pause
